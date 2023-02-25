@@ -84,3 +84,4 @@ checks:
 exclude_patterns:
   - "**/*.svg"
   - "src/test/"
+  - "src/main/java/main/service/DemoServer.java"
